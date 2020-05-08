@@ -1,4 +1,4 @@
-# What's happening this month?
+# What's happening now?
 
 * Nvidia Acquision on networking (Mellanox + Cumulus) \
 [Hardware + Software](https://www.networkworld.com/article/3542248/nvidia-after-7b-mellanox-hardware-deal-grabs-cumulus-for-big-network-software-play.html)
