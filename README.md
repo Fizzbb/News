@@ -1,6 +1,6 @@
 # What's happening now?
 
-* **LF Network & Edge 2020 forecast (April 30, 3030)**
+* **LF Network & Edge 2020 forecast (April 30, 2020)**
   - Edge projects enabled by use cases (AR/VR, connected vehicle, IIOT, intelligent video analysis)
   - Market Intersetion enabled by 5G, Automation, Edge computing
   - Cross Domain Tech collabration, like Hyperledger Telecom
