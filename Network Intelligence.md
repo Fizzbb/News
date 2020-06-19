@@ -1,7 +1,7 @@
 # A Look at Current State of Network Intelligence
 Artificial intelligence plays an important role in the digital world. Almost all the industries have adopted some artificial intelligence technologies to improve their processes, efficiency, revenue, etc. The binding of artificial intelligence and network becomes more and more critical, with the ever-increasing network scale, demands and complexity.
 
-1. Classic
+## 1. Classic
 * Root Cause Analysis 
 
 Supervised learning is a well-known category in machine learning. The classification capability makes it a nature fit in root cause analysis in network system. When diagnostic records are available, those labeled cases can be used to train supervised model to diagnose root cause. One of the challenges here is labeling is costly, especially for today's data at scale. Fortunately, machine learning can be used for preparing training dataset as well, i.e., humans label a small portion of data, and machines learn from the labeled data and then label the remained dataset. [Amazone SageMaker Grouth Truth](https://aws.amazon.com/sagemaker/groundtruth/) is a fully managed labeling service. By leveraging automatic labeling technologies, the labeling cost can be significantly reduced. 
@@ -18,7 +18,7 @@ Time series anomaly detection and forecasting are banded together. Forecasting p
 Another trend in the monitoring field is moving towards full stack observability. Most network vendors agree that network optimization is no more managing the box. It is about optimizing the end-to-end application experience. For example, Cisco fold [AppDynamic](https://www.appdynamics.com/product/application-performance-management/infrastructure-visibility) into its application centric infrastructure (ACI). By correlating ACI constructs, AppDynamics can show how network-configured policies are impacting application performance. Streamline collaboration across network and application teams to reduce time spent troubleshooting and focus on ensuring superior user experience. Similarly, Vmware's recent acquisition on a cloud-based network analytics startup, [Nyansa](https://www.nyansa.com/network-performance-analytics/), extends its SD-WAN platform and brings an end-to-end network visibility, monitoring and remediation solutions. Additionally, the container monitoring becomes increasingly important as with the shift to cloud-native paradigm. Full stack monitoring platform integrates Kubernetes events and metrics as well. Software intelligence company [Dynatrace](https://www.dynatrace.com/news/press-release/dynatrace-further-extends-kubernetes-support-for-full-stack-observability/) recently enhance its Kubernetes support. By ingesting additional Kubernetes metrics, it can deliver precise answers in real time about performance issues and anomalies across the full stack of Kubernetes clusters, containers, and workloads. 
 
 
-2. Trending
+## 2. Trending
 * Close Loop Control 
 
 Network automation and orchestration have a long history. Yet the meanings and actions behind it have always been evolving, like from zero touch provisioning to intent-based networking. Cisco, Juniper, [Anuta Network](https://www.anutanetworks.com/what-is-closed-loop-automation-and-how-to-achieve-it-in-networking/), VMware, [Apstra](https://apstra.com/intent-based-networking-examples-part-3-closed-loop-telemetry/) and other network vendors all have their advanced automation software in portfolio to solve customer challenges. Previously, automation is divided into different parts, like configuration, data collection, insights report, situation room etc. As machine learning advances, continuous optimization is an interesting target. Automation engine or traffic controller use advanced telemetry and analytics to improve network performance in real time without human intervention. Reinforcement learning (RL) is a perfect fit for this control problem. An agent takes an action based on the current observation/state, and then receives the rewards from the environment.  Iteratively, the agent learns the best policies through the environment's feedback. [Deep Mind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) has a very good series of lecture on reinforcement learning. 
@@ -35,7 +35,7 @@ As more enterprise move to the clouds, network architecture keeps evolving. On-p
 Network vendors and cloud providers work closely more than ever. Recently, [Cisco SD-WAN use Google backbone](https://searchnetworking.techtarget.com/news/252482016/Cisco-SD-WAN-to-use-Google-Cloud-backbone) to reduce latency variation in a global network, which is considered as the future direction for SD-WAN companies. DevOps also play an essential role in this marriage, efficiently convert application's network requirements into network policies through well-defined data structures. In addition, many startups build network services on top of AWS, Azure, GCP, etc. For example, [Aviatrix](https://aviatrix.com/cloud-network-platform/#multi-cloud-architecture) provides software defined cloud routing with a central controller that builds and manages multi-cloud and multi-account secure networks. [SilverPeak](https://www.silver-peak.com/company/tech-partners/cloud/aws) Unity EdgeConnect brings customer's VPC as just one more location on the SD-WAN.
 
  
-3. Digital Life 
+## 3. Digital Life 
 
 * Digital twin 
 
@@ -49,11 +49,11 @@ Virtual assistance has been a hot topic in many domains. In network world, it is
 
 Additionally, in some scenarios, virtual assistants need to provide explanations for their solutions, to earn human trusts, e.g., root cause identification, etc. IBM has been working on [explainable AI](https://www.ibm.com/blogs/research/2019/08/ai-explainability-360/), which provides some guidance in this field.
 
-4. MLOps
+## 4. MLOps
 
 As machine learning development mature, MLOps start emerging. Data scientist are not isolated in a Jupiter notebook. ML module is not just an executable file alienated from the whole advanced DevOps flow. Machine learning development starts joining the regular software development flow. Continues integration and continues delivery are required for ML module as well. ML will be part of software products, nothing special. [AWS Sage platform](https://aws.amazon.com/blogs/apn/how-slalom-and-wordstream-used-mlops-to-unify-machine-learning-and-devops-on-aws/) is leading the way. SageMaker studio provides a complete flow including, new data, build, train, deploy, monitor. The last stage monitor is for detecting data drift problem and continuously improving model accuracy. This is very important in ML service life cycle management.  
 
-5. Data Foundation
+## 5. Data Foundation
 
 Last but not least, data collection is the foundation of applied artificial intelligence. Without meaningful features and details, the good decision and resolution cannot be achieved. How to make networks report meaningful data is critical for future AI advance. For example, at the device level, [Mellnox demo](https://www.youtube.com/watch?v=xBOQX3_qVVc) a new feature (WJH) of sending detailed packet loss info in OCP virtual summit 2020. Once a packet loss, detailed info includes device IP, interface ID, port number will be reported to the OS, so it paves the way to fast fault isolation when packet loss happened. In addition, Alibaba published a Sigcomm 2020 paper on a vTrace platform, which simplifies in-band telemetry process, reports less data to minimize performance impacts. A new handshaking protocol is also implemented to accurately recording timestamps, so the event order is well observed in the large cloud networking environment.
 
