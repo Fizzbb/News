@@ -1,3 +1,1 @@
-# News
-
-Latest updated file: Network Intelligence
+# What's happening now?
