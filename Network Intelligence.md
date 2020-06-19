@@ -28,7 +28,7 @@ Existing research demonstrates the feasibility of RL to control the infrastructu
 Reinforcement is still at its nascent stage, but it already starts disrupting many fields. It may not be able to do everything now, but we are confident that RL itself can figure out the best policies for a well-defined objective, given proper state space and rewards. With all the efforts from academia and industry, RL make its significant contributions in autonomous network.  
 
 
-* Cloud, Edge, elastic infrastructure 
+* Cloud, Edge, Elastic Infrastructure 
 
 As more enterprise move to the clouds, network architecture keeps evolving. On-premise network needs cloud on-ramp to reach cloud services. Hybrid multi-cloud becomes the new norm. SD-WAN with security-as-a-service becomes secure access edge service (SASE). With all these excitements, new challenges are rising too, like multi-cloud network visibility, data governance and compliance, optimize hybrid-cloud connectivity, path selection, dynamic bandwidth, consistent network latency over internet, application-dependent network policies, security and more. Machine learning can help in these challenges. It is important to keep data and AI in mind while building all those new services, so the solutions are with built-in intelligence. 
 
@@ -37,7 +37,7 @@ Network vendors and cloud providers work closely more than ever. Recently, [Cisc
  
 ## 3. Digital Life 
 
-* Digital twin 
+* Digital Twin 
 
 Digital twin has different meanings when it is placed in different contexts and fields. In the network world, one typical use case is for network validation. Before deploying the configuration into the real-world network, network engineers typically need to valid the correctness. Under this circumstance, a twin network with the same devices and topology is used for validation. The challenge is to determine how much details are needed to put into the twin. Accuracy and complexity have to be balanced. [Forward Network](https://www.forwardnetworks.com/network-automation-software/) identify the fundamentals for modeling, one is configuration and the other is state. The model takes these two pieces of information to build the basic twin for verification. 
 
