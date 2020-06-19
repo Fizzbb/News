@@ -19,7 +19,7 @@ Another trend in the monitoring field is moving towards full stack observability
 
 
 ## 2. Trending
-* Close Loop Control 
+* Closed Loop Control 
 
 Network automation and orchestration have a long history. Yet the meanings and actions behind it have always been evolving, like from zero touch provisioning to intent-based networking. Cisco, Juniper, [Anuta Network](https://www.anutanetworks.com/what-is-closed-loop-automation-and-how-to-achieve-it-in-networking/), VMware, [Apstra](https://apstra.com/intent-based-networking-examples-part-3-closed-loop-telemetry/) and other network vendors all have their advanced automation software in portfolio to solve customer challenges. Previously, automation is divided into different parts, like configuration, data collection, insights report, situation room etc. As machine learning advances, continuous optimization is an interesting target. Automation engine or traffic controller use advanced telemetry and analytics to improve network performance in real time without human intervention. Reinforcement learning (RL) is a perfect fit for this control problem. An agent takes an action based on the current observation/state, and then receives the rewards from the environment.  Iteratively, the agent learns the best policies through the environment's feedback. [Deep Mind](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) has a very good series of lecture on reinforcement learning. 
 
