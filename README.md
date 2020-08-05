@@ -3,7 +3,7 @@
 ## Augest, 2020
 
 * [Flowmill](https://www.flowmill.com/) leverages eBPF to monitor network layer metrics with negligible overhead.
-Overhead comparison between using service mesh and eBPF is discussed in CNCF webinar. 
+Overhead comparison between using service mesh and eBPF is discussed in [CNCF webinar](https://www.cncf.io/webinars/comparing-ebpf-and-istio-envoy-for-monitoring-microservice-interactions/). 
 
 ## June, 2020
 
