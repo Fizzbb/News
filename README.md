@@ -4,6 +4,9 @@
 * [Flowmill](https://www.flowmill.com/) leverages eBPF to monitor network layer metrics with negligible overhead.
 Overhead comparison between using service mesh and eBPF is discussed in [CNCF webinar](https://www.cncf.io/webinars/comparing-ebpf-and-istio-envoy-for-monitoring-microservice-interactions/). 
 
+* [Kubernetes Co-Creator: CNF for Telcos May Need a Different Orchestrator](https://www.datacenterknowledge.com/networks/kubernetes-co-creator-cnf-telcos-may-need-different-orchestrator)
+
+* Itential ["Integration & Federation: The Key to the Next Wave of Network Automation"](https://www.slideshare.net/Marketing_Itential/integration-federation-the-key-to-the-next-wave-of-network-automation/)
 ## June, 2020
 
 * [Cisco Live 2020](https://www.ciscolive.com/us.html)
