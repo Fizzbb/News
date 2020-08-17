@@ -1,6 +1,8 @@
 # Collections of Interesting Talks, Events, News
 ## Augest, 2020
 
+* Cisco Earning, [R&D and Portfolio adapt to the changes](https://searchnetworking.techtarget.com/news/252487700/Cisco-restructuring-follows-weak-revenues-forecast?track=NL-1817&ad=935417&asrc=EM_NLN_133437486&utm_medium=EM&utm_source=NLN&utm_campaign=20200817_Cisco%20plans%20to%20restructure%20due%20to%20revenue%20declines)
+
 * [Flowmill](https://www.flowmill.com/) leverages eBPF to monitor network layer metrics with negligible overhead.
 Overhead comparison between using service mesh and eBPF is discussed in [CNCF webinar](https://www.cncf.io/webinars/comparing-ebpf-and-istio-envoy-for-monitoring-microservice-interactions/). 
 
