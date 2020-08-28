@@ -2,6 +2,7 @@
 
 ## Sept, 2020
 * Enterprise Strategy Group, [The Rise of Direct Internet Access, 2019](https://security.umbrella.com/esg-report-rise-of-dia)
+* Microsoft, [Azure global network](https://azure.microsoft.com/en-us/global-infrastructure/global-network/#overview)
 
 ## Augest, 2020
 
