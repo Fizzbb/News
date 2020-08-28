@@ -1,4 +1,4 @@
-# Collections of Interesting Talks, Events, News
+# Collections of Interesting Blogs, Talks, News
 
 ## Sept, 2020
 * Enterprise Strategy Group, [The Rise of Direct Internet Access, 2019](https://security.umbrella.com/esg-report-rise-of-dia)
