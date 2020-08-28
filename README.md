@@ -1,4 +1,8 @@
 # Collections of Interesting Talks, Events, News
+
+## Sept, 2020
+* Enterprise Strategy Group, [The Rise of Direct Internet Access, 2019](https://security.umbrella.com/esg-report-rise-of-dia)
+
 ## Augest, 2020
 
 * Cisco Earning, [R&D and Portfolio adapt to the changes](https://searchnetworking.techtarget.com/news/252487700/Cisco-restructuring-follows-weak-revenues-forecast?track=NL-1817&ad=935417&asrc=EM_NLN_133437486&utm_medium=EM&utm_source=NLN&utm_campaign=20200817_Cisco%20plans%20to%20restructure%20due%20to%20revenue%20declines)
