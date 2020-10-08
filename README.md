@@ -1,5 +1,8 @@
 # Collections of Interesting Blogs, Talks, News
 
+## Oct, 2020
+* IEEE COMMUNICATIONS SURVEYS, [Applications of Deep Reinforcement Learning in Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862.pdf)
+
 ## Sept, 2020
 * AvidThink, [Infrastructure/networking acceleration report 2020](https://avidthink.com/announcements/infrastructure-acceleration-report-available-2020/)
 * 451 research, [Replacing VPN with Zero Trust access](https://blog.banyansecurity.io/blog/a-practical-approach-to-replacing-vpns-with-zero-trust-access)
