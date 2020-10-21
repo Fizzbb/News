@@ -2,6 +2,8 @@
 
 ## Oct, 2020
 * IEEE COMMUNICATIONS SURVEYS, [Applications of Deep Reinforcement Learning in Communications and Networking: A Survey](https://arxiv.org/pdf/1810.07862.pdf)
+* CRN, [COVID-19 Isn’t Slowing AWS And Google’s Data Center Expansion Plans](https://www.crn.com/news/data-center/covid-19-isn-t-slowing-aws-and-google-s-data-center-expansion-plans), 176 new hyperscale data centers in the pipeline.
+* Azure, [An Interesting talk on the response to COVID-19](https://azure.microsoft.com/en-us/blog/azure-responds-to-covid19/), prioritize, expand capacity, forcast, optimization.
 
 ## Sept, 2020
 * AvidThink, [Infrastructure/networking acceleration report 2020](https://avidthink.com/announcements/infrastructure-acceleration-report-available-2020/)
