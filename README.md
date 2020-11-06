@@ -1,5 +1,8 @@
 # Collections of Interesting Blogs, Talks, News
 
+## Nov, 2020
+* VMware, [vRealize AI Cloud](https://www.brighttalk.com/webcast/18420/450574?utm_campaign=add-to-calendar&utm_medium=calendar&utm_source=brighttalk-transact), application driven continuous self-tuning infrastructure.
+
 ## Oct, 2020
 * Azure, [An Interesting talk on the response to COVID-19](https://azure.microsoft.com/en-us/blog/azure-responds-to-covid19/), prioritize, expand capacity, forcast, optimization.
 * Synergy Research Group, [COVID-19 Isn’t Slowing Data Center Expansion](https://www.srgresearch.com/articles/hyperscale-data-center-count-reaches-541-mid-2020-another-176-pipeline), 176 new hyperscale data centers in the pipeline.
