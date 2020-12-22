@@ -1,4 +1,4 @@
-# Collections of Interesting Blogs, Talks, News
+# Collections of Interesting Blogs, Talks, News, Events
 
 
 ## Dec, 2020
