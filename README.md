@@ -5,7 +5,7 @@
 * NIPS 2020, [a quick tour](https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/)
   * [Machine Learning for system at Netflix](https://slideslive.com/38943225/machine-learning-for-systems-a-peek-for-researchers)
   * Free access for [workshop](https://nips.cc/Conferences/2020/Schedule?type=Workshop) and [tutorial](https://nips.cc/virtual/2020/public/cal_main.html)
-* AWS re:Invent, commoditize or decommoditize, [5 big announcement from the keynote](https://futurumresearch.com/research-notes/aws-reinvent-2020-5-big-announcements-from-andy-jassys-keynote/)
+* AWS re:Invent, commoditize or decommoditize, [5 big announcement from the keynote](https://futurumresearch.com/research-notes/aws-reinvent-2020-5-big-announcements-from-andy-jassys-keynote/), another version of [summary](https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/)
   * EC2 3 new portfolios (for graphic, network, EBS intensive workload)
   * Container anywhere, support deploy ECS, EKS services on local env
   * Trainium and sillicon, next generation custom chip for ML training (differentiate from commoditized computing)
