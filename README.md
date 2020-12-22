@@ -1,5 +1,10 @@
 # Collections of Interesting Blogs, Talks, News
 
+
+## Dec, 2020
+* NIPS 2020, [a quick tour](https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/)
+  * [Machine Learning for system at Netflix](https://slideslive.com/38943225/machine-learning-for-systems-a-peek-for-researchers)
+  * Free access for [worshop](https://nips.cc/Conferences/2020/Schedule?type=Workshop) and [tutorial](https://nips.cc/virtual/2020/public/cal_main.html)
 ## Nov, 2020
 * Stateof.ai, [State of AI report 2020](https://www.stateof.ai/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20201109+data+ai+nl&mkt_tok=eyJpIjoiTVRWbFptSXlaV0ZsT1RnNSIsInQiOiJiSGRxbnNWSmtLQ1dtUG8zY2pKQTV5WkpPcU5GTGpsZ25PR2RuZVdIRllzZTkzU3ViY3hiMm0yMk1qQWZYbkNDd3ZjWWRDT05ES0N5RGdVekxHNjlmYkJXV1Uwb1I4UENMZkpxdUNFNW05ek5pMzZxcFR5T2p0MVwvZllRTlN3ZEMifQ%3D%3D), a thorough report covers the state of AI on research, talent, industry, politics and predictions.
 * VMware, [vRealize AI Cloud](https://www.brighttalk.com/webcast/18420/450574?utm_campaign=add-to-calendar&utm_medium=calendar&utm_source=brighttalk-transact), application driven continuous self-tuning infrastructure.
