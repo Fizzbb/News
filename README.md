@@ -1,6 +1,7 @@
 # Collections of Interesting Blogs, Talks, News, Events
 
-
+## May, 2021
+* Prof. Manya Ghobadi, MIT, [“Optimizing AI Systems with Optical Technologies”](https://vimeo.com/549460720)
 ## Dec, 2020
 * NIPS 2020, [a quick tour](https://www.zdnet.com/article/a-quick-tour-of-what-you-missed-at-the-neurips-2020-ai-conference/)
   * [Machine Learning for system at Netflix](https://slideslive.com/38943225/machine-learning-for-systems-a-peek-for-researchers)
